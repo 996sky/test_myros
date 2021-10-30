@@ -1,0 +1,2 @@
+fly
+-DCATKIN_DEVEL_PREFIX=/home/rinspace/test_myros/devel -DCMAKE_INSTALL_PREFIX=/home/rinspace/test_myros/install -G Unix Makefiles
