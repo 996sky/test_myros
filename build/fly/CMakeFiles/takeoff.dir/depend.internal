@@ -3,6 +3,7 @@
 
 fly/CMakeFiles/takeoff.dir/src/takeoff.cpp.o
  /home/rinspace/test_myros/src/fly/src/takeoff.cpp
+ /opt/ros/melodic/include/mavros_msgs/State.h
  /opt/ros/melodic/include/ros/advertise_options.h
  /opt/ros/melodic/include/ros/advertise_service_options.h
  /opt/ros/melodic/include/ros/assert.h
@@ -21,6 +22,7 @@ fly/CMakeFiles/takeoff.dir/src/takeoff.cpp.o
  /opt/ros/melodic/include/ros/message.h
  /opt/ros/melodic/include/ros/message_event.h
  /opt/ros/melodic/include/ros/message_forward.h
+ /opt/ros/melodic/include/ros/message_operations.h
  /opt/ros/melodic/include/ros/message_traits.h
  /opt/ros/melodic/include/ros/names.h
  /opt/ros/melodic/include/ros/node_handle.h
@@ -58,5 +60,6 @@ fly/CMakeFiles/takeoff.dir/src/takeoff.cpp.o
  /opt/ros/melodic/include/ros/wall_timer.h
  /opt/ros/melodic/include/ros/wall_timer_options.h
  /opt/ros/melodic/include/rosconsole/macros_generated.h
+ /opt/ros/melodic/include/std_msgs/Header.h
  /opt/ros/melodic/include/xmlrpcpp/XmlRpcDecl.h
  /opt/ros/melodic/include/xmlrpcpp/XmlRpcValue.h
